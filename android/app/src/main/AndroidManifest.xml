@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.stopwatch">
+    package="com.stopwatch1">
    <application
         android:label="Stop watch"
         android:name="${applicationName}"
