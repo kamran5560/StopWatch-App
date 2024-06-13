@@ -53,8 +53,8 @@ class _StopWatchPageState extends State<StopWatchPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color(0xffEDEDED),
       body: Container(
-        decoration: BackGroundGradient,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [

@@ -35,7 +35,7 @@ Widget textButton(String text, IconData icon, Function() onPress) {
     width: 100,
     height: 42,
     decoration: BoxDecoration(
-      color: Color(0xffc3c388),
+      color: Colors.orange,
       borderRadius: BorderRadius.circular(16),
       boxShadow: [
         BoxShadow(
